@@ -17,5 +17,5 @@ Take the sd card out and wipe it with Raspberry pi imager.
 
 ### 4. Download and extract the firmware.
 
-[Latest Raspberry Pi Firmware] (https://bit.ly/2HpIaG6)
-[UEFI Raspberry Pi Firmware] (UEFI Raspberry Pi Firmwarehttps://bit.ly/3jota8D)
+[Latest Raspberry Pi Firmware](https://bit.ly/2HpIaG6)
+[UEFI Raspberry Pi Firmware](https://bit.ly/3jota8D)
