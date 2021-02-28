@@ -6,3 +6,6 @@ How to install ESX on a Raspberry pi 4
 ```
 sudo rpi-eeprom-update
 ```
+```
+sudo rpi-eeprom-update -a
+```
