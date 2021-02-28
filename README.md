@@ -40,3 +40,15 @@ Flash the usb stick with the image using one of theese tools.
 [Rufus-Windows](https://bit.ly/3jvIVKV)
 
 [Balena Etcher-Mac/Linux](https://bit.ly/35w8p5X)
+
+### 9. Installing ESXi on the RPi.
+
+Prepare your keyboard, because you are going to have to be quick.
+Check, that you have both the usb and the sd card plgged in to the RPi.
+Power it up, and immediately start hiting the esc key on your keyboard.
+
+After the menu has appeared, navigate down to the Device Manager tab, and select it.
+Scroll down to Raspberry pi Configuration, then to advanced configuration.
+In advanced configuration, change the enabled Limit RAM to 3 GB from enabled to disabled.
+Save the configuration.
+
