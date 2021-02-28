@@ -24,5 +24,6 @@ Take the sd card out and wipe it with Raspberry pi imager.
 In the extracted file master, go into the boot folder and copy its contents onto the sd card.
 
 ### 5. On the sd card, remove all the kernelX.img files.
-![image](https://user-images.githubusercontent.com/32524000/109423319-3ba0e480-79df-11eb-9a60-5e2b7f8f0b51.png)
+![image](https://user-images.githubusercontent.com/32524000/109423402-7dca2600-79df-11eb-865b-f4e48f63e614.png)
+
 
