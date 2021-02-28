@@ -27,4 +27,6 @@ In the extracted UEFI firmware folder, copy its contents onto the sd card.
 ### 5. On the sd card, remove all the kernelX.img files.
 ![image](https://user-images.githubusercontent.com/32524000/109423402-7dca2600-79df-11eb-865b-f4e48f63e614.png)
 
+### 6. Replace the config.txt file with the config.txt file provided in this repository.
+
 
