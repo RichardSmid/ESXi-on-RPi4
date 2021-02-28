@@ -38,4 +38,5 @@ In the extracted UEFI firmware folder, copy its contents onto the sd card.
 Flash the usb stick with the image using one of theese tools.
 
 [Rufus-Windows](https://bit.ly/3jvIVKV)
+
 [Balena Etcher-Mac/Linux](https://bit.ly/35w8p5X)
