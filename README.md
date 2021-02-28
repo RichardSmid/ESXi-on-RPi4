@@ -20,3 +20,7 @@ Take the sd card out and wipe it with Raspberry pi imager.
 [Latest Raspberry Pi Firmware](https://bit.ly/2HpIaG6)
 
 [UEFI Raspberry Pi Firmware](https://bit.ly/3jota8D)
+
+In the extracted file master, go into the boot folder and copy its contents onto the sd card.
+
+### 5. 
