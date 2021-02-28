@@ -31,4 +31,11 @@ In the extracted UEFI firmware folder, copy its contents onto the sd card.
 
 ### 7. Eject the sd card and plug it into the RPi.
 
+### 8. Prepare a usb stick for the ESXi install.
 
+[ESXi iso download](https://bit.ly/2J0bSCn)
+
+Flash the usb stick with the image using one of theese tools.
+
+[Rufus-Windows](https://bit.ly/3jvIVKV)
+[Balena Etcher-Mac/Linux](https://bit.ly/35w8p5X)
