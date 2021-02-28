@@ -29,4 +29,6 @@ In the extracted UEFI firmware folder, copy its contents onto the sd card.
 
 ### 6. Replace the config.txt file with the config.txt file provided in this repository.
 
+### 7. Eject the sd card and plug it into the RPi.
+
 
