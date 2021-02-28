@@ -52,3 +52,35 @@ Scroll down to Raspberry pi Configuration, then to advanced configuration.
 In advanced configuration, change the enabled Limit RAM to 3 GB from enabled to disabled.
 Save the configuration.
 
+Get back to the first page of the menu, and select continue.
+
+The Pi is going to reboot now, after it reboots, you will need to start hitting the esc key again, to enter the menu again.
+Scroll down to the Boot Manager tab, select it.
+In boot manager, select your usb drive and hit enter.
+After you hit enter, press shift+o immediately.
+after the "runweasel cdromBoot" type in:
+```
+autoPartitionOSDataSize=8192
+```
+Hit enter, and a yellow screen should appear.
+Plug in the other, bigger usb stick.
+In the menu, sellect the usb stick.
+Continue with the installation, by filling in all your data.
+
+
+![image](https://user-images.githubusercontent.com/32524000/109424799-976e6c00-79e5-11eb-84e5-77d2e47bf21e.png)
+After you see this screen, remove the smaller usb stick, that you used to install ESXi.
+After you unplugged it, select reboot and hit enter.
+
+### 10. Change the boot order, to always boot from the bigger usb stick.
+
+After the pi reboots, start hitting the esc key again.
+In the menu, select boot maintenance manager, then select boot options, and finaly change boot order.
+Move the big usb stick to the top of the list, then save and reboot.
+
+### 11. Connect to the Raspberry Pi.
+
+In the yellow part of the screen, you should see your IP address, which you are going to use to acces the ESXi managment interface.
+Type the IP address into your browser, login with the default username root and the password you set during the set-up.
+
+### 11. Spin up your first vm.
