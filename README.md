@@ -22,6 +22,7 @@ Take the sd card out and wipe it with Raspberry pi imager.
 [UEFI Raspberry Pi Firmware](https://bit.ly/3jota8D)
 
 In the extracted file master, go into the boot folder and copy its contents onto the sd card.
+In the extracted UEFI firmware folder, copy its contents onto the sd card.
 
 ### 5. On the sd card, remove all the kernelX.img files.
 ![image](https://user-images.githubusercontent.com/32524000/109423402-7dca2600-79df-11eb-865b-f4e48f63e614.png)
